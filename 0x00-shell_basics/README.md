@@ -1,1 +1,2 @@
-print_working_directory
+print working directory
+list file contents
