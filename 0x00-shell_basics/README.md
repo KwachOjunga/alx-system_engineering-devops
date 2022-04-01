@@ -8,3 +8,4 @@ File-8 deletes betty in my-first-directory
 File-9 deletes my-first-directory
 File-11 lists contents of parent, working and boot directory
 File-12 shows a particular file type
+File-13 create a symbolic link to /bin/ls
